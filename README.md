@@ -1,9 +1,7 @@
 # Yocto Project - meta raspberrypi
 
 Yocto BSP layer for the Raspberry Pi boards - <http://www.raspberrypi.org/>.
-
-[![Documentation Status](https://readthedocs.org/projects/meta-raspberrypi/badge/?version=latest)](https://meta-raspberrypi.readthedocs.io/en/latest/?badge=latest)
-[![Matrix](https://img.shields.io/badge/chat-meta--raspberrypi-brightgreen)](https://matrix.to/#/#meta-raspberrypi:matrix.org)
+Cloned Version configured for 4B board
 
 <table border="0" rules="none">
 <tr border="0">
