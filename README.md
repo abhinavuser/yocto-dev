@@ -1,4 +1,4 @@
-# meta-raspberrypi
+# Yocto Project - meta raspberrypi
 
 Yocto BSP layer for the Raspberry Pi boards - <http://www.raspberrypi.org/>.
 
