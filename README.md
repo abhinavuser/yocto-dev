@@ -1,24 +1,8 @@
 # Yocto Project - meta raspberrypi
 
-Yocto BSP layer for the Raspberry Pi boards - <http://www.raspberrypi.org/>.
-Cloned Version configured for 4B board
+Yocto BSP layer for the Raspberry Pi boards - <http://www.raspberrypi.org/>
 
-<table border="0" rules="none">
-<tr border="0">
-<td width="140" height="100" align="center">
-  <br />
-  <a href="https://www.yoctoproject.org/ecosystem/branding/">
-    <img alt="Yocto Project Layer Compatible" src="img/LF_17_02_Yocto-Badge-Update_Compatible_Final_Blank.png">
-  </a>
-</td>
-<td width="150" height="100" align="center">
-  Sponsored by:<br />
-  <a href="https://balena.io">
-    <img alt="balena.io" src="img/balena.png">
-  </a>
-</td>
-</tr>
-</table>
+Cloned Version configured for 4B board
 
 ## Quick links
 
