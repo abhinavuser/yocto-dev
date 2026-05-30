@@ -85,7 +85,3 @@ You can send patches using the GitHub pull request process or/and through the
 Yocto mailing list. Refer to the
 [documentation](https://meta-raspberrypi.readthedocs.io/en/latest/contributing.html)
 for more information.
-
-## Maintainers
-
-* Andrei Gherzan `<andrei at gherzan.com>`
